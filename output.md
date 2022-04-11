@@ -66,3 +66,5 @@ B. Then we will set the following permissions on the rule:
 ![](images/Branch-rule2.png)
 
 Add signature and fun logo:
+
+![](images/FunLogo.png)
